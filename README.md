@@ -8,7 +8,7 @@ A] Features:
 
 
 Vendor Features:
-1.Register and login securely.
+1. Register and login securely.
 2. Add new products with details like name, quantity, price, and expiry date.
 3. Update inventory quantities and manage product details.
 
