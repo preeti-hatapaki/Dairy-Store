@@ -50,5 +50,5 @@ These data structures are chosen for their efficiency in managing and organizing
 
 
 E] Future Scope
-Estimated Delivery Time
+1. Estimated Delivery Time
 In future updates, we plan to implement a feature to estimate delivery times for orders placed by users. This enhancement aims to provide users with more transparency and convenience regarding when their dairy products will arrive. The estimated delivery time will be dynamically calculated based on factors such as product availability, vendor location, and user preferences.
