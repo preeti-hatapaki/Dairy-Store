@@ -39,3 +39,16 @@ C] Technologies Used:
 
 1. Java
 2. Object-Oriented Programming (OOP) principles
+
+   
+D] Data Structures Used:
+
+1. HashMaps: Used to store and manage vendors and users, facilitating quick access and authentication during login and registration processes.
+   
+2. ArrayLists: Employed for maintaining inventory lists and user shopping carts, supporting dynamic addition, removal, and display of products.
+These data structures are chosen for their efficiency in managing and organizing data, ensuring smooth operation and scalability of the system.
+
+
+E] Future Scope
+Estimated Delivery Time
+In future updates, we plan to implement a feature to estimate delivery times for orders placed by users. This enhancement aims to provide users with more transparency and convenience regarding when their dairy products will arrive. The estimated delivery time will be dynamically calculated based on factors such as product availability, vendor location, and user preferences.
